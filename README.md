@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-#descargar apk
+# descargar apk
 
 https://github.com/elkin123cmas/reactnative/commit/f6abda4c4ff131ce4e45c7eacc13eb56fe9505f0#diff-fd18cd1fcc8517d12a88c8ffe38bc1f3834025bc4a7cc49ce8482650a4cb8648
 
