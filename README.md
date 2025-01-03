@@ -1,5 +1,9 @@
 # Welcome to your Expo app 👋
 
+#descargar apk
+
+https://github.com/elkin123cmas/reactnative/commit/f6abda4c4ff131ce4e45c7eacc13eb56fe9505f0#diff-fd18cd1fcc8517d12a88c8ffe38bc1f3834025bc4a7cc49ce8482650a4cb8648
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
